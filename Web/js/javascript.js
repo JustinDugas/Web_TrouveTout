@@ -4,6 +4,8 @@ let dtoProducts = new DTO_Products();
 
 window.onload = () => {
 	showCategories();
+
+	
 }
 
 //Va chercher toutes les catégories disponibles et les affiche

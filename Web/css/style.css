@@ -209,5 +209,41 @@ header img{
 	padding:2px;
 	margin:10px;
 }
+#loginRegister{
+	margin:auto;
+	margin-top: 30px;
+	border-style: solid;
+	width:400px;
+	padding:50px;
+	border-color: aqua;
+}
+#loginRegister div{
+	width:400px;
+	padding:10px;
+}
+#loginRegister #txt{
+	position:relative;
+	float:right;
+	width:200px;
+}
+#btnCreerCompte{
+	width:150px;
+	display: block;
+	margin: auto;
+	margin-top:20px;
+}
+#ageRegister select{
+	float:right;
+	margin-right: 20%;
+	width:50px;
+}
+#sexeRegister{
+	float:left;
+}
+#sexeRegister #entree{
+	float:right;
+	clear:both;
+	width:150px;
+}
 
 

@@ -14,7 +14,7 @@
 		<div id="index_articles">
 			<input type="text" name = "index_search" id="index_search">
 			<div id = "index_listeArticles">
-				<!-- Populée par le code javascript, voir showArticles() -->
+				<!-- Populé par le code javascript, voir showArticles() -->
 			</div>
 		</div>
 	</main>
